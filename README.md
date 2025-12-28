@@ -24,7 +24,7 @@ Welcome to my comprehensive collection of Data Science, Machine Learning, and De
 *   **Multi-Regional Food Price Prediction**: Leveraging **Ensemble Learning** to forecast food price fluctuations across various geographical regions.
 *   **PM2.5 Air Quality Prediction**: Evaluating the impact of meteorological data on Particulate Matter (PM2.5) prediction using tree-based regression models.
 
-### 🕸️ Graph & Recommendation Systems
+### 🕸️ Recommendation Systems
 *   **Citation Link Prediction & Recommendation**: Building a system to predict future academic citations and recommend relevant research papers using graph-based machine learning.
 
 ---
